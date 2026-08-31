@@ -43,7 +43,7 @@ Find the .env file in the server folder and paste your Grok API key in it
 Open two terminals:
 Terminal 1 (Frontend):
 ``` bash
-cd ..          
+cd ~/Fate-Master/fatecreator-app         
 npm run dev
 ```
 Open http://localhost:5173
