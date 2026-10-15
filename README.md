@@ -31,7 +31,7 @@ The Fate Creator is powered by xAI's Grok-4-fast-reasoning (Users can switch to 
 
 ### 2. Clone & Install
 ``` bash
-git clone https://github.com/realEvanX888/the-fate-creator.git
+git clone https://github.com/Evan888-super/The-Fate-Creator.git
 cd fatecreator-app
 npm install 
 ```
