@@ -23,7 +23,7 @@ Built by Evan, an aspiring college software developer
 Ready to diverge from our timeline? Follow these steps:
 
 ### 1. Get Your Grok API Key
-The Fate Creator is powered by xAI's Grok-4-fast-reasoning. You'll need your own API key:
+The Fate Creator is powered by xAI's Grok-4-fast-reasoning (Users can switch to newer models). You'll need your own API key:
 - Visit https://console.x.ai
 - Sign in (links to your X account)
 - Go to **API Keys** → Create a new key
